@@ -1,5 +1,5 @@
 requires 'perl', '5.008001';
-requires 'Nephia', '0.81';
+requires 'Nephia', '0.82';
 requires 'Nephia::Plugin::PlackSession', '0.80';
 
 on 'test' => sub {

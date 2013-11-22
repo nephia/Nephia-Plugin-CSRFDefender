@@ -2,5 +2,9 @@ Revision history for Perl extension Nephia-Plugin-CSRFDefender
 
 {{$NEXT}}
 
+    - support to Nephia-0.82 or latter
+
+0.01 2013-07-20T18:36:38Z
+
     - original version
 

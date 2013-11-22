@@ -4,7 +4,7 @@
       "papix <mail@papix.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.5.6, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "Minilla/v0.9.0, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "perl_5"
    ],
@@ -21,7 +21,8 @@
          "share",
          "eg",
          "examples",
-         "author"
+         "author",
+         "builder"
       ]
    },
    "prereqs" : {
@@ -42,7 +43,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Nephia" : "0.81",
+            "Nephia" : "0.82",
             "Nephia::Plugin::PlackSession" : "0.80",
             "perl" : "5.008005"
          }
@@ -58,5 +59,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/nephia/Nephia-Plugin-CSRFDefender/issues"
+      },
+      "homepage" : "https://github.com/nephia/Nephia-Plugin-CSRFDefender",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/nephia/Nephia-Plugin-CSRFDefender.git",
+         "web" : "https://github.com/nephia/Nephia-Plugin-CSRFDefender"
+      }
+   },
    "version" : "0.80"
 }
