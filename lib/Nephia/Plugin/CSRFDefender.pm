@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use parent 'Nephia::Plugin';
 
-our $VERSION = "0.80";
+our $VERSION = "0.81";
 
 our $ERROR_HTML = <<'...';
 <!doctype html>
