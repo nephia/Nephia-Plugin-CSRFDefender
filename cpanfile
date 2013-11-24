@@ -8,5 +8,6 @@ on 'test' => sub {
     requires 'Test::WWW::Mechanize::PSGI';
     requires 'Plack::Test';
     requires 'Plack::Builder';
+    requires 'Nephia::Plugin::Dispatch';
 };
 
