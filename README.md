@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nephia/Nephia-Plugin-CSRFDefender.png?branch=master)](https://travis-ci.org/nephia/Nephia-Plugin-CSRFDefender) [![Coverage Status](https://coveralls.io/repos/nephia/Nephia-Plugin-CSRFDefender/badge.png?branch=master)](https://coveralls.io/r/nephia/Nephia-Plugin-CSRFDefender?branch=master)
 # NAME
 
 Nephia::Plugin::CSRFDefender - CSRF Defender Plugin for Nephia

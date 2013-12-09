@@ -1,0 +1,2 @@
+name = "Nephia-Plugin-CSRFDefender"
+badges = ["travis", "coveralls"]
